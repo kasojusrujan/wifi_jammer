@@ -10,7 +10,7 @@
 
 ## Difference to Version 3
 
-[Version 3](https://github.com/SpacehuhnTech/esp8266_deauther/tree/v3) is in development. It is stable to use, but it is very different.  
+It is stable to use, but it is very different.  
 It is command line based, which allows it to offer not just more features, but make them more customizable.  
 
 | Feature | Version 2 | Version 3 |
@@ -27,10 +27,7 @@ It is command line based, which allows it to offer not just more features, but m
 | Authentication scanner | | ✅ |
 | Rogue AP | | ✅ |
 
-## Installation
 
-Please refer to the [installation guide in our wiki](https://github.com/spacehuhntech/esp8266_deauther/wiki/Installation).  
-If you're just looking for the .bin files, go to [releases](https://github.com/spacehuhn/esp8266_deauther/releases).  
 
 ## About this project
 This software allows you to easily perform a variety of actions to test 802.11 wireless networks by using an inexpensive ESP8266 WiFi SoC (System On A Chip).  
@@ -49,8 +46,7 @@ This project is also a great way to learn more about WiFi, micro controllers, Ar
 
 Many refer to this project as a WiFi jammer. This is problematic, because this firmware is **not** turning your ESP8266 into a radio or frequency jammer. But this is how most people imagine it without further explaination.  
 
-So if you like to learn more about the difference, we made a whole video about it:  
-[![Deauther or Jammer: What's the difference?](https://img.youtube.com/vi/gOyfD44A7rE/0.jpg)](https://www.youtube.com/watch?v=gOyfD44A7rE)
+
 
 ## Supported Development Boards
 
@@ -60,22 +56,7 @@ The most popular development boards, the `NodeMCU` and `Wemos d1 mini`, work gre
 If you like to support our work, you can buy get a boards made with this project in mind.  
 They come preflashed with the firmware, so you can start right away.  
 You can chose between:
-
-**[Spacehuhn Store](https://spacehuhn.store)**:  
-Our very own store where all revenue goes directly to us and towards the development of new and exciting projects :)  
-We manufacture and ship from Germany.  
-
-**[Maltronics](https://maltronics.com/)**:  
-We partnered with Maltronics to bring you high quality hacking gadgets.  
-They are based in the UK.  
-
-**[DSTIKE](https://dstike.com/)**:  
-DSTIKE was our first partner. They manufactured the first official deauther boards.  
-They offer a wide range of deauthers in a variety of form factors, including a smart watch.  
-They are based in China, but their products are available through a variety of stores:  
-- [Tindie](https://tindie.com/stores/lspoplove)  
-- [AliExpress](https://dstike.aliexpress.com/store/2996024)  
-- [Taobao](https://shop135375846.taobao.com)  
+ 
 
 ## Disclaimer
 
